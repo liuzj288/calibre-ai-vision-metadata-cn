@@ -1,0 +1,1 @@
+自动化出版物封面元数据提取工具（中文增强版）。支持批量处理，兼容Google Gemini、OpenAI、Anthropic、OpenAI兼容接口及本地离线模型。新增自定义Base URL功能，可接入任何符合OpenAI API规范的第三方服务。预设提示词默认中文，区分图书与期刊杂志的不同返回格式。原作者: RelUnrelated | CN版增强: liuzj288
